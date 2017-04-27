@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+# Specify your gem's dependencies in irc_bot.gemspec
+gem 'cinch'
+
+group :development do
+  gem 'guard'
+end
+
+gemspec

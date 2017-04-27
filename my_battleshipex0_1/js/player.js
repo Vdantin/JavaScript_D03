@@ -89,7 +89,7 @@
             });
         },
         renderShips: function (grid) {
-            
+            this.setActiveShipPosition();
         }
     };
 

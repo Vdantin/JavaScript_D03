@@ -218,7 +218,7 @@
             this.players[0].renderTries(this.grid);
         },
         renderMiniMap: function () {
-        // this.players[0].renderTries(this.grid);
+        this.players[0].renderTries(this.grid);
         }
     };
 
